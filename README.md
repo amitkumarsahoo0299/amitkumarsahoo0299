@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/@amit.official" target="blank"><img src="https://img.shields.io/twitter/follow/@amit.official?logo=twitter&style=for-the-badge" alt="@amit.official" /></a> </p>
 
-- 🌱 I’m currently learning **React and mongoDB**
-
 - 📫 How to reach me **amitkumarsahoo1212@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
